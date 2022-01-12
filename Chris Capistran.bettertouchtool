@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Product</key>
+	<string>BetterTouchTool</string>
+	<key>Name</key>
+	<string>Chris Capistran</string>
+	<key>Email</key>
+	<string>capistranc@gmail.com</string>
+	<key>OrderID</key>
+	<string>0a9165847553f074ac420c6a63668c4b</string>
+	<key>LicenseType</key>
+	<string>paddle</string>
+	<key>Licenses</key>
+	<string>1</string>
+	<key>Timestamp</key>
+	<string>1583871044</string>
+	<key>CheckoutName</key>
+	<string>Chris Capistran</string>
+	<key>TransactionID</key>
+	<string>50507077-chre7d7e3f31e1a-7fce4d9189</string>
+	<key>Signature</key>
+	<data>GzZB+aaXpwDhMCTXNL6Z3hrXivUM3+FQQM1ZlSjl5iajCrOBh9mg8tcZWkvITAJfrW+4npL/ZC7D
+v5KBXpcWQIzv1YIes1WofjgAop9EMShS0bBaByE1yyXp/ansSTeP3CavQ4jIeAbi/w4KCoEVnOKy
+oV0hh7yos+nWMstiF5c=
+</data>
+</dict>
+</plist>

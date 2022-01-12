@@ -1,0 +1,10 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "projectManager.git.baseFolders": [
+        "/Users/chriscapistran/Code"
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "redhat.telemetry.enabled": true
+}
